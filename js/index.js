@@ -1,4 +1,4 @@
-var name = "Joe";
+var name = "S";
   if(name === "Susan"){
     console.log("The name is correct");
   } else {
